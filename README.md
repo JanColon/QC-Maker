@@ -1,6 +1,8 @@
 # Short Description
 A tool to streamline .QC file production for model creation in the Source Engine
 
+![Software Demo Gif](https://media0.giphy.com/media/UDCAPTTLkHMZsso2sY/giphy.gif "Demo")
+
 # Longer Description
 When creating models for use in the source engine, the models require a QC file in order to compile all necessary info and produce a functional .mdl file for modding use. The .QC file creation process is tedious and *sometimes* time consuming depending on the custom model's complexity. In an effort to streamline the QC creation process for the sake of simplicity and swiftness, I created QC Maker.
 
